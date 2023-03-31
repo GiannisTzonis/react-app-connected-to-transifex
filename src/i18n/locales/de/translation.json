@@ -1,0 +1,10 @@
+{
+  "title": "Willkommen zu React",
+  "description": {
+    "part1": "Um loszulegen, andere <1>src/App.jsx</1> und speichere um zeuzuladen.",
+    "part2": "Wechseln Sie die Sprache mithilfe der Schaltflachen unten."
+  },
+  "nameGreeting": "Hallo {{username}}",
+  "filesWithCount_one": "Projekt hat {{count}} Datei.",
+  "filesWithCount_other": "Projekt hat {{count}} Dateien."
+}

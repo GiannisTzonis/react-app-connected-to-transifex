@@ -1,0 +1,10 @@
+{
+  "title": "Welcome to React",
+  "description": {
+    "part1": "To get started, edit <1>src/App.jsx</1> and save to reload.",
+    "part2": "Switch languages using buttons below."
+  },
+  "nameGreeting": "Hello {{username}}",
+  "filesWithCount_one": "Project has {{count}} file.",
+  "filesWithCount_other": "Project has {{count}} files."
+}
